@@ -1,3 +1,7 @@
+---
+permalink: /pomodoro-lite
+---
+
 # Privacy Policy — Pomodoro Lite – Focus Timer
 
 Pomodoro Lite – Focus Timer respects your privacy.
